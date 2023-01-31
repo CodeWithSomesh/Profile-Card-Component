@@ -1,7 +1,7 @@
 # Frontend Mentor - Profile Card Component
 
 
-QR Code Component | Frontend Mentor Challenge
+Profile Card Component | Frontend Mentor Challenge
 
 📝Brief Intro
 
