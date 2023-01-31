@@ -12,3 +12,6 @@ Design from Frontend Mentor:
 
 My Design:
 https://codewithsomesh.github.io/Profile-Card-Component/
+
+
+I have trouble implementing the background pic, if you find where was my mistake, please do let me know! 😊
